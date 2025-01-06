@@ -1,4 +1,4 @@
-# playdeas - RAG for recommending games (powered with Flutter Android app)
+# playdeas - RAG for recommending games (powered with Flutter)
 
 ## In progress (will be updated):
 
